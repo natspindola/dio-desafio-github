@@ -1,1 +1,3 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+As atualizações realizadas na máquina podem ser enviadas para o repositório virtual.
